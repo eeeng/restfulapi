@@ -1,0 +1,39 @@
+[
+    {
+        "UserID": 1,
+        "InterestID": 1
+    },
+    {
+        "UserID": 1,
+        "InterestID": 2
+    },
+    {
+        "UserID": 1,
+        "InterestID": 3
+    },
+    {
+        "UserID": 1,
+        "InterestID": 4
+    },
+    {
+        "UserID": 2,
+        "InterestID": 5
+    },
+    {
+        "UserID": 2,
+        "InterestID": 6
+    },
+    {
+        "UserID": 2,
+        "InterestID": 7
+    },
+    {
+        "UserID": 2,
+        "InterestID": 8
+    },
+    {
+        "UserID": 3,
+        "InterestID": 9
+    }
+ 
+]

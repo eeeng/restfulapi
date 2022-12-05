@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Name": "Mechanical Engineering"
+    },
+    {
+        "ID": 2,
+        "Name": "Aerospace Engineering"
+    },
+    {
+        "ID":3,
+        "Name":"ACad"
+    },
+    {
+        "ID": 4,
+        "Name": "Ansys"
+    },
+    {
+        "ID": 5,
+        "Name": "C++"
+    },
+    {
+        "ID": 6,
+        "Name": "DevOps"
+    },
+    {
+        "ID": 7,
+        "Name": "Backend"
+    },
+    {
+        "ID": 8,
+        "Name": "Linux"
+    },
+    {
+        "ID": 9,
+        "Name": "Student"
+    }
+]

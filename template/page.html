@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>{{.Page.Name}}</title>
+        <meta name="description" content="{{.Page.Description}}">
+        <meta name="author" content="Semih Sarı">        
+    </head>
+    <body>
+        <h1>{{.Page.Name}}}</h1>
+        {{range .Users}}
+        <p>
+            <strong>{{.ID}} - {{.LastName}}</strong> <i>by {{.Username}}</i>
+            <br>
+            <p>Profile : <a href="{{.Profile}}" target="{{_blank}}">Dijibil/{{.Username}}</a></p>
+            {{range .Interests}}
+            <u1>
+                <li>{{.ID}} - {{.Name}}</li>
+            </u1>
+            {{end}}
+        </p>
+        {{end}}
+    </body>
+</html>
