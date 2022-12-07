@@ -34,6 +34,13 @@
     {
         "UserID": 3,
         "InterestID": 9
-    }
- 
+    },
+        {
+        "UserID": 3,
+        "InterestID": 10
+    },
+        {
+        "UserID": 3,
+        "InterestID": 11
+    } 
 ]
