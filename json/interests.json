@@ -33,6 +33,14 @@
     },
     {
         "ID": 9,
-        "Name": "Student"
+        "Name": "Electrical Engineering"
+    },
+        {
+        "ID": 10,
+        "Name": "Power Electronics"
+    },
+        {
+        "ID": 11,
+        "Name": "System Design"
     }
 ]
