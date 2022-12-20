@@ -1,30 +1,3 @@
-//package main
-
-//import "fmt"
-
-//func main() {
-//	fmt.Print("HEY")
-//	fmt.Println("BERRE")
-//}
-
-// package main
-
-// import (
-// 	"net/http"
-// )
-
-// func aboutHandler(w http.ResponseWriter, r *http.Request) {
-// 	w.Write([]byte("About Page"))
-// }
-
-// func main() {
-// 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-// 		w.Write([]byte("Merhaba Berre"))
-// 	})
-
-//		http.HandleFunc("/about", aboutHandler)
-//		http.ListenAndServe(":8080", nil)
-//	}
 package main
 
 import (
